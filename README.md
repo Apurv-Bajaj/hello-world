@@ -9,3 +9,4 @@ The bot currently responds to:
 The bot will prompt you to fill a CLA for the first time. After you fill it up, it won't create any further noise.  
 Please feel free to test it in any of the above ways.  
 (This is a Work-in-Progress)
+(Testing!)
