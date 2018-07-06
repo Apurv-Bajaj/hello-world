@@ -16,7 +16,7 @@ staleLabel: stale
 
 # Comment to post when marking as stale. Set to `false` to disable
 markComment: >
-  This pull request has been automatically marked as stale because it has not had
+  Hi @author, this pull request has been automatically marked as stale because it has not had
   recent activity. It will be closed if no further activity occurs. Thank you
   for your contributions.
 
@@ -32,7 +32,6 @@ markComment: >
 limitPerRun: 30
 
 # Limit to only `issues` or `pulls`
-only: pulls
 
 # Optionally, specify configuration settings that are specific to just 'issues' or 'pulls':
 # pulls:
